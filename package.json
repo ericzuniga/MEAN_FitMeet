@@ -1,0 +1,11 @@
+{
+  "name": "MEAN_FitMeet",
+  "description": "Sample Express Application to test out using Package.json to install dependencies",
+  "dependencies": {
+    "express": "~4.10.0",
+    "ejs": "1.0.0",
+    "bootstrap": "3.3.6",
+    "jquery": "1.12.3"
+  }
+  
+}
